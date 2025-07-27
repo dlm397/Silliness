@@ -1,0 +1,3 @@
+Spivak, A Comprehensive Introduction to Differential Geometry
+Boothby, An Introduction to differentiable manifolds and Riemannian geometry
+Greg Naber's notes
