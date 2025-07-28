@@ -1,2 +1,0 @@
-Stephen Boyd and Lieven Vandenberghe, Convex Optimization
-Amir Beck, Introduction to Nonlinear Optimization
